@@ -1,4 +1,4 @@
-#爬取英雄联盟皮肤
+# 爬取英雄联盟皮肤
 获取英雄联盟所有英雄信息的地址是：http://lol.qq.com/biz/hero/champion.js
 
 获取单个英雄详细信息的网址是：http://lol.qq.com/biz/hero/xxxxxx.js ，其中的xxxxx指的是英雄的英文名字（首字母大写）。
